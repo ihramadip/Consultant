@@ -13,13 +13,12 @@ const Footer = () => {
 
                     {/* 1st block */}
                     <div className="col-span-12 lg:col-span-4">
-                        <div className="box-border border-b-4 border-blue-900 p-8 bg-gray-200 text-gray-600 text-center rounded-lg xl:w-80 mx-auto">
-                            <h3 className="font-bold text-4xl mb-4">MLD</h3>
+                        <div className="box-border border-b-4 border-yellow-900 p-8 bg-gray-200 text-gray-600 text-center rounded-lg xl:w-80 mx-auto">
+                            <h3 className="font-bold text-4xl mb-4">Data Solutions</h3>
                             <div className='text-md font-medium text-gray-600'>
-                                <h5>Molad e Konsult</h5>
-                                <p>Ilo Awela,</p>
-                                <p>Ota,</p>
-                                <p>Ogun State.</p>
+                                <h5>Ihram Adi Pratama S.Stat</h5>
+                                <p>Bandung</p>
+                                <p>Jawa Barat</p>
                             </div>
                         </div>
                     </div>
